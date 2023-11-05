@@ -1,0 +1,5 @@
+
+h
+java:S6204:"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß
+U
+java:S1858O"?"getId" returns a string, there's no need to call "toString()".(öêÁÔ

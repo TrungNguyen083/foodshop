@@ -1,0 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Angular/.angular/cache/16.1.0/angular-webpack/e7c6c3ef32bd918fad26765c4b0b66ef43ab3389/5.pack filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Angular/.angular/cache/16.1.0/angular-webpack/e7c6c3ef32bd918fad26765c4b0b66ef43ab3389/2.pack filter=lfs diff=lfs merge=lfs -text
+File[[:space:]]Angular/.angular/cache/16.1.0/angular-webpack/acf41f6a23bc1430dd7cb366d9459f5ccc158529/0.pack filter=lfs diff=lfs merge=lfs -text
